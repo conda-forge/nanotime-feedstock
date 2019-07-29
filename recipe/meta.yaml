@@ -33,7 +33,7 @@ about:
   summary: 'Nanosecond precision time'
 
   description: |
-    The nanotime module provides a time object that keeps time as the number of
+    The nanotime Python module provides a time object that keeps time as the number of
     nanoseconds since the UNIX epoch. In other words, it is a 64bit UNIX timestamp
     with nanosecond precision.
   dev_url: https://github.com/jbenet/nanotime
